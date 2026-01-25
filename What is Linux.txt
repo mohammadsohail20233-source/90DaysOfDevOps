@@ -1,0 +1,37 @@
+What is Linux?
+Linux is an open-source operating system developed by Linus Torvalds in 1991.
+Why Linux?
+Around 90% of servers and applications run on Linux
+Free and open-source
+Secure and stable
+Widely used in cloud, DevOps, cybersecurity, and servers
+How Do I Learn Linux?
+Practice on cloud platforms like AWS or Utho
+Or set up Linux on your local system (VMware / VirtualBox / Dual Boot)
+
+write 5 popular Linux commands and their usages
+create a fie 
+touch filename.txt
+crate a folder (directory)
+mkdir foldername
+copy /move/ remove/rename file or folders
+cp  source.txt destination.txt
+move
+mv source.txt /new/location/
+rename
+mv oldname.txt newname.txt
+remove(delete)
+rm filename.txt
+rm- foldername
+find ip address
+ip a
+or
+ifconfig
+ping a website
+ping google.com
+check storage and ram usage
+df -h
+free-h
+
+
+
